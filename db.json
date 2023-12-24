@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "example",
+      "password": "example"
+    },
+    {
+      "username": "Adolf",
+      "password": "Hitler",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "username": "kill",
+      "password": "weee"
+    },
+    {
+      "username": "Yana",
+      "password": "Cust",
+      "id": 4
+    },
+    {
+      "username": "anna",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "username": "ivan",
+      "password": "2345",
+      "id": 6
+    },
+    {
+      "username": "liza",
+      "password": "0909",
+      "id": 7
+    }
+  ],
+  "pictures": [
+    {
+      "id": 1,
+      "postedby": "example",
+      "path": "/Photos/picture_1.jpg",
+      "likes": [
+        "likedby",
+        "likedbyexample"
+      ]
+    }
+  ]
+}
